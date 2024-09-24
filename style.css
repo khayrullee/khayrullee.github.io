@@ -1,9 +1,10 @@
 @media screen {min-width: 300px;} and {max-width: 1024px;}
 body {font-family: 'Times New Roman';
     background-image: url(swt.jpg);
-    background-size: cover;}
-.kop {width: 550px; 
+    background-repeat: no-repeat;}
+.kop {
     margin: auto;
+    margin-top: 50px;
     background-color: darkblue;
     border: 5px solid rgb(251, 255, 1);
     background-size: contain;
