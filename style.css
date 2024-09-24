@@ -18,6 +18,8 @@ body {font-family: 'Times New Roman';
 h2 {text-align: center;
     color: white;}
 
+h3 {text-align: justify;}
+
 .isi {width: 510px; 
     margin: auto; 
     background-image: url(putih.jpg);
@@ -36,4 +38,13 @@ p {text-align: center;
         margin-top: 30%;
         mix-blend-mode: multiply;}
 
-
+.footnote {text-align: center;
+            font-size: 16px;
+            font-weight: 900;
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(0, 0, 0);
+            background-image: url(warning.jpg);
+            background-position: center;
+            background-size: 80px;
+            padding: 10px;
+        }
