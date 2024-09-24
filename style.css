@@ -1,6 +1,7 @@
-@media screen {min-width: 671px;} and {max-width: 1024px;}
+@media screen {min-width: 300px;} and {max-width: 1024px;}
 body {font-family: 'Times New Roman';
-    background-image: url(swt.jpg);}
+    background-image: url(swt.jpg);
+    background-size: cover;}
 .kop {width: 550px; 
     margin: auto;
     background-color: darkblue;
@@ -31,41 +32,7 @@ p {text-align: center;
     font-weight: 900;}
 
 .img_deg {float: inline-end;
-        margin-top: 28%;
+        margin-top: 30%;
         mix-blend-mode: multiply;}
 
-@media screen {min-width: 370px;} and {max-width: 670px;}
-
-.kop {width: 550px; 
-    margin: auto;
-    background-color: darkblue;
-    border: 5px solid rgb(251, 255, 1);
-    background-size: contain;
-    height: 120px;
-    border-bottom: 7px solid;
-    padding: 0%;
-    width: 550px;}
-
-.tengah {text-align: center; 
-    line-height: 7px;}
-h2 {text-align: center;
-    color: white;}
-
-.isi {width: 510px; 
-    margin: auto; 
-    background-image: url(putih.jpg);
-    border: 5px solid rgb(251, 255, 1);
-    border-top: 0px;
-    background-size: contain;
-    height: 400px; 
-    padding: 10px 20px 0px;
-    }
-
-p {text-align: center;
-    font-size: 25px;
-    font-weight: 900;}
-
-.img_deg {float: inline-end;
-        margin-top: 28%;
-        mix-blend-mode: multiply;}
 
